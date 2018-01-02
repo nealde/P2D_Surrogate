@@ -20,6 +20,6 @@ A single-line installer is:
 
 Then, type: `jupyter notebook` and a jupyter notebook kernel will start.  Navigate to the repository folder in the jupyter file explorer and open `Recurrent_GBM.ipynb`.  The code should work.
 
-To upload your own discharge data, simply swap out the CSV located in the targets folder.  It will attempt to fit any discharge data with less than 1800 seconds of discharge time, but it may only be accurate for discharge curves ending between 1400 and 1800 seconds, and is not garaunteed to be accurate at all.
+To upload your own discharge data, simply swap out the CSV located in the targets folder.  It will attempt to fit any discharge data with less than 1800 seconds of discharge time, but it may only be accurate for discharge curves ending between 1400 and 1800 seconds, and is not guaranteed to be accurate at all.
 
 
